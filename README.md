@@ -1,4 +1,5 @@
 **<font size="+2" color="#003300">FTP Mystery</font>**
+<br>
 **Alexandra Andrews**
 
 Scientific, artistic, religious and academic discoveries are hiding in plain site. With an investigation of forgotten basement collections in museums, universities, old houses, walls, tombs, etc., lost knowledge comes into the light.
@@ -19,6 +20,7 @@ Now I have discovered a FTP permissions issue. FTP (File Transfer Protocol) or S
 - For the examples - I have created two user accounts.</dt>
 <dd>
 - BowWow
+  <br>
 - Meow
 </dd>
 
@@ -45,9 +47,13 @@ FTP seems unable to discriminate between correct and incorrect users.
 </dl>
 
 **File Examples:**
+<br>
 [Cat Kedi](catkedi.txt)
+<br>
 [Cat Music](catmusic.txt)
+<br>
 [Name Caller](dogname.txt)
+<br>
 [Dog Friend](dogfriend.txt)
 
 <dl>
