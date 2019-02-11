@@ -10,7 +10,7 @@ I rediscovered a security hole in the basic UNIX file system. There is no need t
 
 I invented this website code in 2000\. After reading about using viewport in CSS, I asked **why?** I put up my code for [Always Responsive Accessible Web Page Display and Printing For Any Device](https://github.com/arinitti/Always-Responsive-pages) on GitHub in June 2018\.
 
-Hiding in plain sight, FTP can be used to change file ownership and permissions. FTP (File Transfer Protocol) or SFTP(Secure File Transfer Protocol) are both impacted by this mystery. In researching the net, I have not found any documentation or mention regarding this possible security danger. FTP is used by thousands daily. Is this problem overlooked? Did the documentation disappear in rewrites? Who knows?
+Hiding in plain sight, FTP can be used to change file ownership and permissions. FTP (File Transfer Protocol) or SFTP (Secure File Transfer Protocol) are both impacted by this mystery. In researching the net, I have not found any documentation or mention regarding this possible security danger. FTP is used by thousands daily. Is this problem overlooked? Did the documentation disappear in rewrites? Who knows?
 
 <dl>
 <dt>For my satisfaction, I am publishing examples of this mystery.
@@ -79,7 +79,7 @@ Uploading files from local host to (s)ftp server.</dt>
 
 </dd>
 
-<dt>**<font size="+1">New Ownership Transfered by (S)FTP</font>**
+<dt>**<font size="+1">New Ownership Transferred by (S)FTP</font>**
 
 - User meow files now owned by bowwow</dt>
 
