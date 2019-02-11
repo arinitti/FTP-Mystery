@@ -8,12 +8,11 @@ The same seems to be true in Computer Code. Can it be that in the search for the
 
 I rediscovered a security hole in the basic UNIX file system. There is no need to steal Tappy’s arm as in the Huawei case. Users can blithely waltz into and adopt files. I was using this pathway in the early 2000s. Thought it had been plugged, but alas – **No**!
 
-I invented this website code in 2000\. After reading about using viewport in CSS, I asked **why?** I put up my code for [Always Responsive Accessible Web Page Display and Printing For Any Device](https://github.com/arinitti/Always-Responsive-pages) on GitHub in June 2018\. The idea took over the net.
+I invented this website code in 2000\. After reading about using viewport in CSS, I asked **why?** I put up my code for [Always Responsive Accessible Web Page Display and Printing For Any Device](https://github.com/arinitti/Always-Responsive-pages) on GitHub in June 2018\.
 
-Now I have discovered a FTP permissions issue. FTP (File Transfer Protocol) or SFTP(Secure File Transfer Protocol) are both impacted by this mystery. FTP can be used to change ownership of files. In researching the net, I have not found any documentation or mention regarding this possible security hole. FTP is used by thousands daily. Is this problem overlooked? Did the documentation disappear in rewrites? Who knows?
+Hiding in plain sight, FTP can be used to change file ownership and permissions. FTP (File Transfer Protocol) or SFTP(Secure File Transfer Protocol) are both impacted by this mystery. In researching the net, I have not found any documentation or mention regarding this possible security danger. FTP is used by thousands daily. Is this problem overlooked? Did the documentation disappear in rewrites? Who knows?
 
 <dl>
-
 <dt>For my satisfaction, I am publishing examples of this mystery.
 - I am using a terminal shell on a local MAC.
 - I am writing the files with vim.
