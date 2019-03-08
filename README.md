@@ -16,7 +16,8 @@ Hiding in plain sight, FTP can be used to change file ownership and permissions.
 <dt>For my satisfaction, I am publishing examples of this mystery.
 - I am using a terminal shell on a local MAC.
 - I am writing the files with vim.
-- For the examples - I have created two user accounts.</dt>
+- For the examples - Using the MAC as a mini example of a local area network (LAN) system, I have created two user accounts.
+</dt>
 <dd>
 - BowWow
   <br>
